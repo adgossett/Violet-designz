@@ -86,7 +86,7 @@ body {
 	2. Header Styles
 -------------------------------------------------------------------*/
 #header-holder {
-    background-image: url("../images/image1.png");
+    background-image: url("image1.png");
     background-position: center;
     background-size: cover;
     position: relative;
