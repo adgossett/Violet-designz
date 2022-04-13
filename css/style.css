@@ -296,7 +296,7 @@ background-image: url("../images/img1.png");
 
 #top-content .button-holder a#main-button:hover {
     text-decoration: none;
-    background-color: #FC6D6D;
+    background-color: ##FC6D6D;
 }
 
 /*------------------------------------------------------------------
@@ -354,7 +354,7 @@ background-image: url("../images/img1.png");
 #about h3 {
     font-size: 22px;
     font-weight: 600;
-    color: #FC6D6D;
+    color: #000;
     margin-bottom: 25px;
     text-align: center;
     text-decoration: uppercase;
@@ -363,7 +363,7 @@ background-image: url("../images/img1.png");
 #about p {
     font-size: 20px;
     font-weight: 300;
-    color: #ffcacc;
+    color: #000;
     margin-bottom: 20px;
     text-align: left;
 }
