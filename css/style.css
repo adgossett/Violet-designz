@@ -298,7 +298,7 @@ background-image: url("../images/img1.png");
     text-decoration: none;
     background-color: ##FC6D6D;
 }
-
+e
 /*------------------------------------------------------------------
 	4. About Section Styles
 -------------------------------------------------------------------*/
@@ -458,7 +458,7 @@ background-image: url("../images/img1.png");
 }
 
 .feature-icon-holder .feature-title {
-    color: FC6D6D;
+    color: #000;
     font-size: 18px;
     font-weight: 600;
 }
